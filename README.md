@@ -25,29 +25,29 @@ this.gender = gender;
 ```
 - Buat Diagram gambar 2 Object Riko dan Antor
 
-![image](ss/s.png)
+![image](Screenshots/s.png)
 
 - Buat gambar diagram object Akunbank dengan metode instan simpanUang, ambilUang, dan cekSaldo.
 
-![image](ss/ss.png)
+![image](Screenshot/ss.png)
 
 ## Latihan2
 
 - Mendeklarasikan class Person dengan atribut Nama, Jeniskelamin, Umur
-![image](ss/ss1.png)
+![image](Screenshot/ss1.png)
 
 - Buat 2 object class person dengan nama riko dan anton
-![image](ss/ss2.png)
+![image](Screenshot/ss2.png)
 
 ## Latihan 3
 - Mendeklarasikan class Akunbank dengan metode instan, SimpanUang, AmbilUang dan Ceksaldo
 
-![image](ss/ss3.png)
+![image](Screenshot/ss3.png)
 
 - Buat Object Akunbank
 
-![image](ss/ss4.png)
+![image](Screenshot/ss4.png)
 
 - Output
 
-![image](ss/ss5.png)
+![image](Screenshot/ss5.png)
