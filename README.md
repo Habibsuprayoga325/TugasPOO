@@ -34,10 +34,10 @@ this.gender = gender;
 ## Latihan2
 
 - Mendeklarasikan class Person dengan atribut Nama, Jeniskelamin, Umur
-![image](Screenshot/ss1.png)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss1.png?raw=true)
 
 - Buat 2 object class person dengan nama riko dan anton
-![image](Screenshot/ss2.png)
+![alt text](?raw=true)
 
 ## Latihan 3
 - Mendeklarasikan class Akunbank dengan metode instan, SimpanUang, AmbilUang dan Ceksaldo
