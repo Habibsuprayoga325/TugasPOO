@@ -25,7 +25,7 @@ this.gender = gender;
 ```
 - Buat Diagram gambar 2 Object Riko dan Antor
 
-![image](Screenshots/s.png)
+![alt text](?raw=true/Screenshots/s.png)
 
 - Buat gambar diagram object Akunbank dengan metode instan simpanUang, ambilUang, dan cekSaldo.
 
