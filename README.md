@@ -29,7 +29,7 @@ this.gender = gender;
 
 - Buat gambar diagram object Akunbank dengan metode instan simpanUang, ambilUang, dan cekSaldo.
 
-![alt text](?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss.png?raw=true)
 
 ## Latihan2
 
@@ -37,17 +37,17 @@ this.gender = gender;
 ![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss1.png?raw=true)
 
 - Buat 2 object class person dengan nama riko dan anton
-![alt text](?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss2.png?raw=true)
 
 ## Latihan 3
 - Mendeklarasikan class Akunbank dengan metode instan, SimpanUang, AmbilUang dan Ceksaldo
 
-![alt text](?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss3.png?raw=true)
 
 - Buat Object Akunbank
 
-![alt text](?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss4.png?raw=true)
 
 - Output
 
-![alt text](?raw=true)
+![alt text](https://github.com/Habibsuprayoga325/TugasPOO/blob/main/ss5.png?raw=true)
