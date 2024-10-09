@@ -29,7 +29,7 @@ this.gender = gender;
 
 - Buat gambar diagram object Akunbank dengan metode instan simpanUang, ambilUang, dan cekSaldo.
 
-![image](Screenshot/ss.png)
+![alt text](?raw=true)
 
 ## Latihan2
 
@@ -42,12 +42,12 @@ this.gender = gender;
 ## Latihan 3
 - Mendeklarasikan class Akunbank dengan metode instan, SimpanUang, AmbilUang dan Ceksaldo
 
-![image](Screenshot/ss3.png)
+![alt text](?raw=true)
 
 - Buat Object Akunbank
 
-![image](Screenshot/ss4.png)
+![alt text](?raw=true)
 
 - Output
 
-![image](Screenshot/ss5.png)
+![alt text](?raw=true)
